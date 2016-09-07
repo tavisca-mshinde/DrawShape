@@ -1,0 +1,16 @@
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Operation.dll
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Operation.pdb
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\DrawShape.exe
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Entities.dll
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\EntityFactory.dll
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Microsoft.Practices.Unity.dll
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\DrawShape.pdb
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Entities.pdb
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\EntityFactory.pdb
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Microsoft.Practices.Unity.xml
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DrawApplication\DrawShapeAssignment\Operation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DrawApplication\DrawShapeAssignment\Operation\obj\Debug\Operation.csprojResolveAssemblyReference.cache
+D:\DrawApplication\DrawShapeAssignment\Operation\obj\Debug\Operation.dll
+D:\DrawApplication\DrawShapeAssignment\Operation\obj\Debug\Operation.pdb

@@ -1,0 +1,5 @@
+D:\DrawApplication\DrawShapeAssignment\Entities\bin\Debug\Entities.dll
+D:\DrawApplication\DrawShapeAssignment\Entities\bin\Debug\Entities.pdb
+D:\DrawApplication\DrawShapeAssignment\Entities\obj\Debug\Entities.dll
+D:\DrawApplication\DrawShapeAssignment\Entities\obj\Debug\Entities.pdb
+D:\DrawApplication\DrawShapeAssignment\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

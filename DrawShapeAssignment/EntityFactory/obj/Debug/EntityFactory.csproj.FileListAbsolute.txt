@@ -1,0 +1,16 @@
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\EntityFactory.dll
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\EntityFactory.pdb
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Entities.dll
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.Unity.dll
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Entities.pdb
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.Unity.xml
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\obj\Debug\EntityFactory.csprojResolveAssemblyReference.cache
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\obj\Debug\EntityFactory.dll
+D:\DrawApplication\DrawShapeAssignment\EntityFactory\obj\Debug\EntityFactory.pdb

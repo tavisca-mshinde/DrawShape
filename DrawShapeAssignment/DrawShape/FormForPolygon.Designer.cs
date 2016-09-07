@@ -1,6 +1,6 @@
 ﻿namespace DrawShape
 {
-    partial class Form1
+    partial class FormForPolygon
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.PolygonPanel = new System.Windows.Forms.Panel();
+            this.SuspendLayout();
+            // 
+            // PolygonPanel
+            // 
+            this.PolygonPanel.Location = new System.Drawing.Point(29, 69);
+            this.PolygonPanel.Name = "PolygonPanel";
+            this.PolygonPanel.Size = new System.Drawing.Size(1118, 708);
+            this.PolygonPanel.TabIndex = 0;
+            // 
+            // FormForPolygon
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(1170, 789);
+            this.Controls.Add(this.PolygonPanel);
+            this.Name = "FormForPolygon";
+            this.Text = "FormForPolygon";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Panel PolygonPanel;
     }
 }
-

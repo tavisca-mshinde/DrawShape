@@ -1,0 +1,7 @@
+D:\DrawApplication\DrawShapeAssignment\Validation\bin\Debug\Validation.dll
+D:\DrawApplication\DrawShapeAssignment\Validation\bin\Debug\Validation.pdb
+D:\DrawApplication\DrawShapeAssignment\Validation\obj\Debug\Validation.dll
+D:\DrawApplication\DrawShapeAssignment\Validation\obj\Debug\Validation.pdb
+D:\DrawApplication\DrawShapeAssignment\Validation\bin\Debug\log4net.dll
+D:\DrawApplication\DrawShapeAssignment\Validation\bin\Debug\log4net.xml
+D:\DrawApplication\DrawShapeAssignment\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache

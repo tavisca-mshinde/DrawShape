@@ -46,14 +46,53 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FormForCircle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FormForCircle.Designer.cs">
+      <DependentUpon>FormForCircle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForLine.Designer.cs">
+      <DependentUpon>FormForLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForPolygon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForPolygon.Designer.cs">
+      <DependentUpon>FormForPolygon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForRectangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForRectangle.Designer.cs">
+      <DependentUpon>FormForRectangle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForTriangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForTriangle.Designer.cs">
+      <DependentUpon>FormForTriangle.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormForCircle.resx">
+      <DependentUpon>FormForCircle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForLine.resx">
+      <DependentUpon>FormForLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForPolygon.resx">
+      <DependentUpon>FormForPolygon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForRectangle.resx">
+      <DependentUpon>FormForRectangle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForTriangle.resx">
+      <DependentUpon>FormForTriangle.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +114,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{f79a65f4-2292-4df9-932f-c669dd01fddb}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntityFactory\EntityFactory.csproj">
+      <Project>{39e72744-9579-48e4-af8b-b21920f87c74}</Project>
+      <Name>EntityFactory</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
